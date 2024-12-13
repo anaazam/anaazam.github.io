@@ -5,11 +5,11 @@ title: Anahita Azam
 
 Welcome, خوش آمدید , bienvenue !
 
-I am an economist and computational social scientist exploring socio-economic and political dynamics through innovative data sources and methodologies. My research spans sensitive markets, policy evaluation, and the intersection of AI with public policy challenges.  
+I am an economist and researcher exploring socio-economic and political dynamics through innovative data sources and methodologies. My research spans sensitive markets, policy evaluation, and the intersection of data science and sociological challenges.  
 
 ---
 
-## Education  
+### Education  
 - **Master of Science in Economics**  
   KU Leuven, Belgium (2020)  
   _Magna cum laude_  
@@ -23,7 +23,7 @@ I am an economist and computational social scientist exploring socio-economic an
 
 ---
 
-## Peer-Reviewed Publications  
+### Peer-Reviewed Publications  
 1. **Azam, A., Hendrickx, J., Adriaenssens, S. (2024).**  
    _Estimating the prostitution population using online data: a single-registration approach for the Netherlands and Belgium._  
    Published in **Quality & Quantity.**  
@@ -37,7 +37,7 @@ I am an economist and computational social scientist exploring socio-economic an
 
 ---
 
-## Statistics Canada Publications  
+### Statistics Canada Publications  
 1. **Azam, A., Wang, S. (2023).**  
    _Corporate profitability and inflation: 2017 to 2022._  
    Published in **Prices Analytical Series.**  
@@ -51,48 +51,49 @@ I am an economist and computational social scientist exploring socio-economic an
 
 ---
 
-## Professional Experience  
+### Professional Experience  
 
-### Economist  
+#### Economist  
 **Statistics Canada, Housing & Construction Prices**  
 Toronto, Canada (2021–Present)  
 - Developed analytical dashboards and reports on housing and construction price trends, influencing policy and industry analyses.  
 - Automated price index production using R and GitLab pipelines, reducing processing time by 10 business days.  
 - Negotiated data acquisition agreements with major rental providers, ensuring timely access to critical housing data.  
 
-### Research Assistant  
+#### Research Assistant  
 **KU Leuven, Faculty of Economics & Business**  
 Brussels, Belgium (2020)  
 - Designed econometric models and web scraping tools to analyze data from hidden populations.  
 - Co-authored a peer-reviewed journal article based on interdisciplinary research.
 
-### Other Roles  
+#### Other Roles  
 - **Hedge Fund Services Administrator**, Citco Group Limited, Toronto (2018–2019)  
-- **Finance Assistant**, Ministry of Health, Ontario Public Service (2016)  
+- **Finance Assistant**, Ministry of Health, Ontario Public Service, Toronto (2016)
+- **Financial Services Representative**, TD Canada Trust, Toronto (2014-2018)  
 
 ---
 
-## Research Interests  
+### Presentations  
+- **Canadian Economics Association Conference (2024):** _The role of profits in post-pandemic inflation._  
+- **European Population Conference (2022):** _Issues in health data analysis for hidden populations._  
+
+---
+
+### Research Interests  
 - Statistical modeling and causal inference for policy analysis  
 - Hidden populations and vulnerabilities in sensitive markets  
 - Socio-economic impacts of automation and technology  
 
 ---
 
-## Presentations  
-- **Canadian Economics Association Conference (2024):** _The role of profits in post-pandemic inflation._  
-- **European Population Conference (2022):** _Issues in health data analysis for hidden populations._  
-
----
-
-## Technical Skills  
+### Technical Skills  
 - **Programming:** R, Python, SQL, Stata, Excel VBA  
 - **Tools:** Git, Jupyter Notebooks, Azure Cloud Computing, LaTeX  
 - **Certifications:** Canadian Securities Course, DataCamp (Data Scientist tracks)
 
 ---
 
-## Contact  
+#### Contact  
 Feel free to connect with me!  
 - **Email:** [ana.azam@alumni.utoronto.ca](mailto:ana.azam@alumni.utoronto.ca)  
 - **GitHub:** [@anaazam](https://github.com/anaazam)  
