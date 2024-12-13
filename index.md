@@ -3,6 +3,10 @@ layout: default
 title: Anahita Azam
 ---
 
+# Anahita Azam  
+**Economist | Computational Social Scientist | Data Enthusiast**  
+Toronto, Canada | [Email Me](mailto:ana.azam@alumni.utoronto.ca) | [GitHub](https://github.com/anaazam) | [LinkedIn](https://www.linkedin.com/in/anahita-azam/)  
+
 Welcome, خوش آمدید , bienvenue !
 
 I am an economist and researcher exploring socio-economic and political dynamics through innovative data sources and methodologies. My research spans sensitive markets, policy evaluation, and the intersection of data science and sociological challenges.  
