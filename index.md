@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ana Azam
+title: Anahita Azam
 ---
 
 # Welcome to My Website
