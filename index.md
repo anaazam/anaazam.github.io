@@ -13,7 +13,7 @@ Feel free to connect with me via [email](mailto:ana.azam@alumni.utoronto.ca) or 
 ### Education  
 - **Master of Science in Economics**  
   KU Leuven, Belgium (2020)  
-  Thesis: _The internet and underground markets: estimating prostitution supply in the Low Countries_
+  - Thesis: _The internet and underground markets: estimating prostitution supply in the Low Countries_
 
 - **Bachelor of Commerce, Finance & Economics Specialist**  
   University of Toronto, Canada (2018)  
