@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Welcome to Ana Azam's Page
+title: Ana Azam
 ---
-# Welcome to My GitHub Page!
-This is a placeholder while I set up my site.
+
+# Welcome to My Website
+Hi, I'm Ana Azam, a researcher specializing in uncovering patterns in human societies through creative data sources.
