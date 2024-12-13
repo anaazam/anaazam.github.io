@@ -7,7 +7,9 @@ title: Ana Azam
 **Economist | Computational Social Scientist | Data Enthusiast**  
 Toronto, Canada | [Email Me](mailto:ana.azam@alumni.utoronto.ca) | [GitHub](https://github.com/anaazam) | [LinkedIn](https://www.linkedin.com/in/anahita-azam/)  
 
-Welcome to my professional page! I am an economist and computational social scientist exploring socio-economic and political dynamics through innovative data sources and methodologies. My research spans sensitive markets, policy evaluation, and the intersection of AI with public policy challenges.  
+Welcome, خوش آمدید , bienvenue !
+
+I am an economist and computational social scientist exploring socio-economic and political dynamics through innovative data sources and methodologies. My research spans sensitive markets, policy evaluation, and the intersection of AI with public policy challenges.  
 
 ---
 
