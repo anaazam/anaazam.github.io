@@ -66,9 +66,9 @@ Brussels, Belgium (2020)
 - Co-authored a peer-reviewed journal article based on interdisciplinary research.
 
 #### Other Roles  
-- **Hedge Fund Services Administrator**, Citco Group Limited, Toronto (2018–2019)  
-- **Finance Assistant**, Ministry of Health, Ontario Public Service, Toronto (2016)
-- **Financial Services Representative**, TD Canada Trust, Toronto (2014-2018)  
+- **Hedge Fund Services Administrator**, Citco Group Limited (2018–2019)  
+- **Finance Assistant**, Ministry of Health, Ontario Public Service (2016)
+- **Financial Services Representative**, TD Canada Trust (2014-2018)  
 
 ---
 
