@@ -1,11 +1,7 @@
 ---
 layout: default
-title: Ana Azam
+title: Anahita Azam
 ---
-
-# Anahita Azam  
-**Economist | Computational Social Scientist | Data Enthusiast**  
-Toronto, Canada | [Email Me](mailto:ana.azam@alumni.utoronto.ca) | [GitHub](https://github.com/anaazam) | [LinkedIn](https://www.linkedin.com/in/anahita-azam/)  
 
 Welcome, خوش آمدید , bienvenue !
 
@@ -19,10 +15,11 @@ I am an economist and computational social scientist exploring socio-economic an
   _Magna cum laude_  
   Thesis: _The internet and underground markets: estimating prostitution supply in the Low Countries_
 
-- **Bachelor of Commerce (Finance & Economics Specialist)**  
+- **Bachelor of Commerce | Finance & Economics Specialist **  
   University of Toronto, Canada (2018)  
   _Graduated with distinction_  
-  - Awards: William Waters Commerce & Finance Award, Brookfield Peter F. Bronfman Commerce Award
+  - William Waters Commerce & Finance Award
+  - Brookfield Peter F. Bronfman Commerce Award
 
 ---
 
