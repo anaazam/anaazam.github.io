@@ -6,12 +6,6 @@ Welcome, خوش آمدید , bienvenue !
 
 I am an economist and researcher exploring socio-economic and political dynamics through innovative data sources and methodologies. My research spans sensitive markets, policy evaluation, and the intersection of data science and sociological challenges. 
 
-Currently, my research interests include:
-- Causal inference for policy analysis  
-- Vulnerabilities in sensitive markets and difficult-to-reach populations
-- Socio-economic impacts of automation and technology
-- The Canadian housing market
-
 Feel free to connect with me via [email](mailto:ana.azam@alumni.utoronto.ca) or check out my work on [orchid](https://orcid.org/0000-0001-5109-4455) or [github](https://github.com/anaazam). 
 
 ---
@@ -89,7 +83,7 @@ Brussels, Belgium (2020)
 ### Research Interests  
 - Statistical modeling and causal inference for policy analysis  
 - Hidden populations and vulnerabilities in sensitive markets  
-- Socio-economic impacts of automation and technology  
+- Socio-economic impacts of automation and technology
 
 ---
 
