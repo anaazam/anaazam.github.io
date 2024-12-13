@@ -13,14 +13,11 @@ Feel free to connect with me via [email](mailto:ana.azam@alumni.utoronto.ca) or 
 ### Education  
 - **Master of Science in Economics**  
   KU Leuven, Belgium (2020)  
-  _Magna cum laude_  
   Thesis: _The internet and underground markets: estimating prostitution supply in the Low Countries_
 
-- **Bachelor of Commerce | Finance & Economics Specialist **  
-  University of Toronto, Canada (2018)  
-  _Graduated with distinction_  
-  - William Waters Commerce & Finance Award
-  - Brookfield Peter F. Bronfman Commerce Award
+- **Bachelor of Commerce, Finance & Economics Specialist** 
+  University of Toronto, Canada (2018) 
+  - William Waters Commerce & Finance Award | Brookfield Peter F. Bronfman Commerce Award
 
 ---
 
@@ -28,8 +25,8 @@ Feel free to connect with me via [email](mailto:ana.azam@alumni.utoronto.ca) or 
 1. **Azam, A., Hendrickx, J., Adriaenssens, S. (2024).**  
    _Estimating the prostitution population using online data: a single-registration approach for the Netherlands and Belgium._  
    Published in **Quality & Quantity.**  
-   - [Read More](https://doi.org/10.1007/s11135-024-01634-8)  
    - Cited by the Union of Sex Workers Organised for Independence during Brussels policymaker meetings.
+   - [Read More](https://doi.org/10.1007/s11135-024-01634-8)  
 
 2. **Azam, A., Adriaenssens, S., Hendrickx, J. (2020).**  
    _How Covid-19 affects prostitution markets in the Netherlands and Belgium: dynamics and vulnerabilities under a lockdown._  
@@ -42,8 +39,8 @@ Feel free to connect with me via [email](mailto:ana.azam@alumni.utoronto.ca) or 
 1. **Azam, A., Wang, S. (2023).**  
    _Corporate profitability and inflation: 2017 to 2022._  
    Published in **Prices Analytical Series.**  
+   - Referenced by the Assistant Chief Statistician for the House of Commons’ Committee on Industry and Technology.
    - [Read More](https://www150.statcan.gc.ca/n1/en/catalogue/62F0014M2023004)  
-   - Referenced by the Assistant Chief Statistician in testimony to the House of Commons’ Committee on Industry and Technology.
 
 2. **Azam, A. (2022).**  
    _Technical Guide for the Building Construction Price Index._  
