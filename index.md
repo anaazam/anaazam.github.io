@@ -4,7 +4,7 @@ title: Anahita Azam
 ---
 
 # Anahita Azam  
-**Economist | Computational Social Scientist | Data Enthusiast**  
+**Economist | Data Enthusiast**  
 Toronto, Canada | [Email Me](mailto:ana.azam@alumni.utoronto.ca) | [GitHub](https://github.com/anaazam) | [LinkedIn](https://www.linkedin.com/in/anahita-azam/)  
 
 Welcome, خوش آمدید , bienvenue !
