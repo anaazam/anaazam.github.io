@@ -1,7 +1,103 @@
 ---
 layout: default
-title: Anahita Azam
+title: Ana Azam
 ---
 
-# Welcome to My Website
-Hi, I'm Ana Azam, a researcher specializing in uncovering patterns in human societies through creative data sources.
+# Anahita Azam  
+**Economist | Computational Social Scientist | Data Enthusiast**  
+Toronto, Canada | [Email Me](mailto:ana.azam@alumni.utoronto.ca) | [GitHub](https://github.com/anaazam) | [LinkedIn](https://www.linkedin.com/in/anahita-azam/)  
+
+Welcome to my professional page! I am an economist and computational social scientist exploring socio-economic and political dynamics through innovative data sources and methodologies. My research spans sensitive markets, policy evaluation, and the intersection of AI with public policy challenges.  
+
+---
+
+## Education  
+- **Master of Science in Economics**  
+  KU Leuven, Belgium (2020)  
+  _Magna cum laude_  
+  Thesis: _The internet and underground markets: estimating prostitution supply in the Low Countries_
+
+- **Bachelor of Commerce (Finance & Economics Specialist)**  
+  University of Toronto, Canada (2018)  
+  _Graduated with distinction_  
+  - Awards: William Waters Commerce & Finance Award, Brookfield Peter F. Bronfman Commerce Award
+
+---
+
+## Peer-Reviewed Publications  
+1. **Azam, A., Hendrickx, J., Adriaenssens, S. (2024).**  
+   _Estimating the prostitution population using online data: a single-registration approach for the Netherlands and Belgium._  
+   Published in **Quality & Quantity.**  
+   - [Read More](https://doi.org/10.1007/s11135-024-01634-8)  
+   - Cited by the Union of Sex Workers Organised for Independence during Brussels policymaker meetings.
+
+2. **Azam, A., Adriaenssens, S., Hendrickx, J. (2020).**  
+   _How Covid-19 affects prostitution markets in the Netherlands and Belgium: dynamics and vulnerabilities under a lockdown._  
+   Published in **European Societies.**  
+   - [Read More](https://doi.org/10.1080/14616696.2020.1833064)  
+
+---
+
+## Statistics Canada Publications  
+1. **Azam, A., Wang, S. (2023).**  
+   _Corporate profitability and inflation: 2017 to 2022._  
+   Published in **Prices Analytical Series.**  
+   - [Read More](https://www150.statcan.gc.ca/n1/en/catalogue/62F0014M2023004)  
+   - Referenced by the Assistant Chief Statistician in testimony to the House of Commons’ Committee on Industry and Technology.
+
+2. **Azam, A. (2022).**  
+   _Technical Guide for the Building Construction Price Index._  
+   Published in **Prices Analytical Series.**  
+   - [Read More](https://www150.statcan.gc.ca/n1/pub/62f0014m/62f0014m2022005-eng.htm)  
+
+---
+
+## Professional Experience  
+
+### Economist  
+**Statistics Canada, Housing & Construction Prices**  
+Toronto, Canada (2021–Present)  
+- Developed analytical dashboards and reports on housing and construction price trends, influencing policy and industry analyses.  
+- Automated price index production using R and GitLab pipelines, reducing processing time by 10 business days.  
+- Negotiated data acquisition agreements with major rental providers, ensuring timely access to critical housing data.  
+
+### Research Assistant  
+**KU Leuven, Faculty of Economics & Business**  
+Brussels, Belgium (2020)  
+- Designed econometric models and web scraping tools to analyze data from hidden populations.  
+- Co-authored a peer-reviewed journal article based on interdisciplinary research.
+
+### Other Roles  
+- **Hedge Fund Services Administrator**, Citco Group Limited, Toronto (2018–2019)  
+- **Finance Assistant**, Ministry of Health, Ontario Public Service (2016)  
+
+---
+
+## Research Interests  
+- Statistical modeling and causal inference for policy analysis  
+- Hidden populations and vulnerabilities in sensitive markets  
+- Socio-economic impacts of automation and technology  
+
+---
+
+## Presentations  
+- **Canadian Economics Association Conference (2024):** _The role of profits in post-pandemic inflation._  
+- **European Population Conference (2022):** _Issues in health data analysis for hidden populations._  
+
+---
+
+## Technical Skills  
+- **Programming:** R, Python, SQL, Stata, Excel VBA  
+- **Tools:** Git, Jupyter Notebooks, Azure Cloud Computing, LaTeX  
+- **Certifications:** Canadian Securities Course, DataCamp (Data Scientist tracks)
+
+---
+
+## Contact  
+Feel free to connect with me!  
+- **Email:** [ana.azam@alumni.utoronto.ca](mailto:ana.azam@alumni.utoronto.ca)  
+- **GitHub:** [@anaazam](https://github.com/anaazam)  
+- **LinkedIn:** [Anahita Azam](https://www.linkedin.com/in/anahita-azam/)  
+- **ORCID:** [0000-0001-5109-4455](https://orcid.org/0000-0001-5109-4455)  
+
+---
