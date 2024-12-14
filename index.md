@@ -77,8 +77,10 @@ Brussels, Belgium (2020)
 ---
 
 ### Presentations  
-- **Canadian Economics Association Conference (2024):** _The role of profits in post-pandemic inflation._  
-- **European Population Conference (2022):** _Issues in health data analysis for hidden populations._  
+- **Canadian Economics Association Conference (2024):**
+  _The role of profits in post-pandemic inflation._  
+- **European Population Conference (2022):**
+  _Issues in health data analysis for hidden populations._  
 
 ---
 
