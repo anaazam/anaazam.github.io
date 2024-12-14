@@ -50,13 +50,11 @@ layout: default
 ### Statistics Canada Publications  
 1. **Azam, A., Wang, S. (2023).**  
    _Corporate profitability and inflation: 2017 to 2022._  
-   Published in **Prices Analytical Series.**  
    - Referenced by the Assistant Chief Statistician for the House of Commons’ Committee on Industry and Technology.
    - [Read More](https://www150.statcan.gc.ca/n1/en/catalogue/62F0014M2023004)  
 
 2. **Azam, A. (2022).**  
    _Technical Guide for the Building Construction Price Index._  
-   Published in **Prices Analytical Series.**  
    - [Read More](https://www150.statcan.gc.ca/n1/pub/62f0014m/62f0014m2022005-eng.htm)  
 
 ---
@@ -84,14 +82,25 @@ Brussels, Belgium (2020)
 
 ---
 
-### Research Interests  
+#### Research Interests  
 - Statistical modeling and causal inference for policy analysis  
 - Hidden populations and vulnerabilities in sensitive markets  
 - Socio-economic impacts of automation and technology
 
 ---
 
-### Technical Skills  
+#### Languages
+- Proficient - English, Urdu
+- Intermediate - French, Punjabi, Sindhi
+
+#### Data Science
+- Causal Inference
+- Hedonic Pricing
+- Linear & Logistic Regressions
+- Webscraping
+- Price Index Estimation
+
+#### Technical Skills  
 - **Programming:** R, Python, SQL, Stata, Excel VBA  
 - **Tools:** Git, Jupyter Notebooks, Azure Cloud Computing, LaTeX  
 - **Certifications:** Canadian Securities Course, DataCamp (Data Scientist tracks)
