@@ -56,16 +56,16 @@ Azam, A. (2022). [Technical Guide for the Building Construction Price Index.](ht
 
 **Economist**   
 Statistics Canada, Housing & Construction Prices  
-Toronto, Canada (2021–Present)   
+_Toronto, Canada (2021–Present)_   
 
 **Research Assistant**   
 KU Leuven, Faculty of Economics & Business  
-Brussels, Belgium (2020)  
+_Brussels, Belgium (2020)_  
 
 **Other Roles**  
-- Hedge Fund Services Administrator, Citco Group Limited (2018–2019)  
-- Finance Assistant, Ministry of Health, Ontario Public Service (2016)
-- Financial Services Representative, TD Canada Trust (2014-2018)  
+Hedge Fund Services Administrator, Citco Group Limited (2018–2019)  
+Finance Assistant, Ministry of Health, Ontario Public Service (2016)   
+Financial Services Representative, TD Canada Trust (2014-2018)  
 
 ---
 
