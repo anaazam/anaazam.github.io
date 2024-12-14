@@ -65,16 +65,11 @@ layout: default
 
 #### Economist  
 **Statistics Canada, Housing & Construction Prices**  
-Toronto, Canada (2021–Present)  
-- Developed analytical dashboards and reports on housing and construction price trends, influencing policy and industry analyses.  
-- Automated price index production using R and GitLab pipelines, reducing processing time by 10 business days.  
-- Negotiated data acquisition agreements with major rental providers, ensuring timely access to critical housing data.  
+Toronto, Canada (2021–Present)   
 
 #### Research Assistant  
 **KU Leuven, Faculty of Economics & Business**  
 Brussels, Belgium (2020)  
-- Designed econometric models and web scraping tools to analyze data from hidden populations.  
-- Co-authored a peer-reviewed journal article based on interdisciplinary research.
 
 #### Other Roles  
 - **Hedge Fund Services Administrator**, Citco Group Limited (2018–2019)  
