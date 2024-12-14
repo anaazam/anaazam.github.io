@@ -23,39 +23,33 @@ layout: default
 
 ### Education  
   **Master of Science in Economics**  
-  KU Leuven, Belgium (2020)<br>
+  _KU Leuven, Belgium (2020)_  
   Thesis: _The internet and underground markets: estimating prostitution supply in the Low Countries_ 
 
   **Bachelor of Commerce, Finance & Economics Specialist**  
-  University of Toronto, Canada (2018)<br> 
+  _University of Toronto, Canada (2018)_   
   William Waters Commerce & Finance Award  
   Brookfield Peter F. Bronfman Commerce Award
 
 ---
 
 ### Peer-Reviewed Publications  
-**Azam, A., Hendrickx, J., Adriaenssens, S. (2024).**  
-   _Estimating the prostitution population using online data: a single-registration approach for the Netherlands and Belgium._  
-   Published in **Quality & Quantity.**  
-   - Cited by the Union of Sex Workers Organised for Independence during Brussels policymaker meetings.
-   - [Read More](https://doi.org/10.1007/s11135-024-01634-8)  
+**Azam, A., Hendrickx, J., Adriaenssens, S. (2024). Quality & Quantity.**  
+[Estimating the prostitution population using online data: a single-registration approach for the Netherlands and Belgium.](https://doi.org/10.1007/s11135-024-01634-8)  
+Cited by the Union of Sex Workers Organised for Independence during Brussels policymaker meetings.
 
-**Azam, A., Adriaenssens, S., Hendrickx, J. (2020).**  
-   _How Covid-19 affects prostitution markets in the Netherlands and Belgium: dynamics and vulnerabilities under a lockdown._  
-   Published in **European Societies.**  
-   - [Read More](https://doi.org/10.1080/14616696.2020.1833064)  
+**Azam, A., Adriaenssens, S., Hendrickx, J. (2020). European Societies.**  
+[How Covid-19 affects prostitution markets in the Netherlands and Belgium: dynamics and vulnerabilities under a lockdown.](https://doi.org/10.1080/14616696.2020.1833064)  
 
 ---
 
 ### Statistics Canada Publications  
 **Azam, A., Wang, S. (2023).**  
-   _Corporate profitability and inflation: 2017 to 2022._  
-   - Referenced by the Assistant Chief Statistician for the House of Commons’ Committee on Industry and Technology.
-   - [Read More](https://www150.statcan.gc.ca/n1/en/catalogue/62F0014M2023004)  
+[Corporate profitability and inflation: 2017 to 2022._](https://www150.statcan.gc.ca/n1/en/catalogue/62F0014M2023004)  
+Referenced by the Assistant Chief Statistician for the House of Commons’ Committee on Industry and Technology.
 
 **Azam, A. (2022).**  
-   _Technical Guide for the Building Construction Price Index._  
-   - [Read More](https://www150.statcan.gc.ca/n1/pub/62f0014m/62f0014m2022005-eng.htm)  
+[Technical Guide for the Building Construction Price Index.](https://www150.statcan.gc.ca/n1/pub/62f0014m/62f0014m2022005-eng.htm)  
 
 ---
 
@@ -78,10 +72,10 @@ Brussels, Belgium (2020)
 
 ### Presentations  
 **Canadian Economics Association Conference (2024)**  
-  _The role of profits in post-pandemic inflation._  
+_The role of profits in post-pandemic inflation._  
     
 **European Population Conference (2022)**  
-  _Issues in health data analysis for hidden populations._  
+_Issues in health data analysis for hidden populations._  
     
 ---
 
