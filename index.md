@@ -15,10 +15,8 @@ layout: default
       Feel free to connect with me via 
       <a href="mailto:ana.azam@alumni.utoronto.ca">email</a>, check out my work on 
       <a href="https://orcid.org/0000-0001-5109-4455">ORCID</a>, 
-      <a href="https://github.com/anaazam">GitHub</a>, or
-      <a href="AnahitaAzamCV.pdf" download="AnahitaAzamCV.pdf" style="text-decoration: none; color: #007bff;">
-        <img src="download-icon.png" alt="Download" style="width: 16px; vertical-align: middle;"> CV
-      </a>.
+      <a href="https://github.com/anaazam">GitHub</a>, or my
+      <a href="AnaAzam_CV.pdf" download="AnaAzam_CV.pdf">CV</a>.
     </p>
   </div>
 </div>
