@@ -23,11 +23,11 @@ layout: default
 
 ### Education  
   **Master of Science in Economics**  
-  KU Leuven, Belgium (2020)  <br>
+  KU Leuven, Belgium (2020)<br>
   Thesis: _The internet and underground markets: estimating prostitution supply in the Low Countries_ 
 
   **Bachelor of Commerce, Finance & Economics Specialist**  
-  University of Toronto, Canada (2018) <br> 
+  University of Toronto, Canada (2018)<br> 
   William Waters Commerce & Finance Award  
   Brookfield Peter F. Bronfman Commerce Award
 
