@@ -89,7 +89,7 @@ Brussels, Belgium (2020)
 - Hidden populations and vulnerabilities in sensitive markets  
 - Socio-economic impacts of automation and technology
 
-#### Statistics & Data Science
+#### Data Science & Statistics
 - Causal Inference
 - Hedonic Pricing
 - Linear & Logistic Regressions
