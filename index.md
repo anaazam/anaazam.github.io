@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+
+<img src="profile.jpg" alt="Ana Azam" style="border-radius: 50%; max-width: 150px; display: block; margin: 0 auto;">
     
 Welcome, خوش آمدید , bienvenue !
 
