@@ -89,8 +89,6 @@ Brussels, Belgium (2020)
 - Hidden populations and vulnerabilities in sensitive markets  
 - Socio-economic impacts of automation and technology
 
----
-
 #### Languages
 - Proficient - English, Urdu
 - Intermediate - French, Punjabi, Sindhi
