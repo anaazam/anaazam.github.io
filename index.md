@@ -2,10 +2,10 @@
 layout: default
 ---
 
-<div class="intro">
-  <img src="profile.jpg" alt="Anahita Azam" class="profile-pic">
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 20px; margin-bottom: 20px; text-align: center; padding: 20px; background-color: #f9f9f9; border-radius: 10px;">
+  <img src="profile.jpg" alt="Anahita Azam" style="border-radius: 50%; width: 120px; height: 120px; object-fit: cover; margin: 0 auto;">
 
-  <div class="intro-text">
+  <div style="flex-basis: 100%; margin-top: 10px;">
     <p>Welcome, خوش آمدید , bienvenue!</p>
     <p>
       I am an economist and researcher exploring socio-economic and political dynamics through innovative data sources and methodologies. 
@@ -20,7 +20,6 @@ layout: default
     </p>
   </div>
 </div>
-
 
 ---
 
