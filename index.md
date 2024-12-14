@@ -16,11 +16,11 @@ layout: default
       <a href="mailto:ana.azam@alumni.utoronto.ca">email</a>, check out my work on 
       <a href="https://orcid.org/0000-0001-5109-4455">ORCID</a>, 
       <a href="https://github.com/anaazam">GitHub</a>, or my
-      <a href="AnaAzam_CV.pdf" download="AnaAzam_CV.pdf">CV</a>.
+      <a href="AnahitaAzamCV.pdf" download="AnahitaAzamCV.pdf">CV</a> 
+      <a href="AnahitaAzamCV.pdf" download="AnahitaAzamCV.pdf" style="padding: 10px 15px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; font-size: 14px; margin-left: 10px;">Download</a>.
     </p>
   </div>
 </div>
-
 ---
 
 ### Education  
