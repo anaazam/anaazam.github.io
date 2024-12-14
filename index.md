@@ -2,9 +2,10 @@
 layout: default
 ---
 
-<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
-  <img src="profile.jpg" alt="Anahita Azam" style="border-radius: 50%; width: 250px; height: 250px;">
-  <div>
+<div class="intro">
+  <img src="profile.jpg" alt="Anahita Azam" class="profile-pic">
+
+  <div class="intro-text">
     <p>Welcome, خوش آمدید , bienvenue!</p>
     <p>
       I am an economist and researcher exploring socio-economic and political dynamics through innovative data sources and methodologies. 
@@ -12,10 +13,10 @@ layout: default
     </p>
     <p>
       Feel free to connect with me via 
-      <a href="mailto:ana.azam@alumni.utoronto.ca">email</a>, or check out my work on 
+      <a href="mailto:ana.azam@alumni.utoronto.ca">email</a>, check out my work on 
       <a href="https://orcid.org/0000-0001-5109-4455">ORCID</a>, 
-      <a href="https://github.com/anaazam">GitHub</a>, or my
-      <a href="AnahitaAzamCV.pdf" download="AnahitaAzamCV.pdf">CV</a>.
+      <a href="https://github.com/anaazam">GitHub</a>, or 
+      <a href="AnaAzam_CV.pdf" download="AnaAzam_CV.pdf">download my CV</a>.
     </p>
   </div>
 </div>
