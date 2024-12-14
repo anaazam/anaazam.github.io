@@ -1,10 +1,6 @@
 ---
 layout: default
 ---
-
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img src="profile.jpg" alt="Anahita Azam" style="border-radius: 50%; max-width: 150px;">
-  <div>
     
 Welcome, خوش آمدید , bienvenue !
 
