@@ -14,11 +14,9 @@
 /* Styling for the profile picture */
 .profile-pic {
   border-radius: 50%; /* Makes the image circular */
-  width: 150px; /* Default size for desktop */
-  height: 150px; /* Maintain circular aspect ratio */
-  margin: 0; /* Reset any extra margins */
-  flex-shrink: 0; /* Prevent image from resizing too small */
-  padding-right: 15px; /* Adds space between the image and the text */
+  width: 120px; /* Scales the image down */
+  height: 120px; /* Matches the width for circular shape */
+  padding-right: 15px; /* Adds space between the image and text */
 }
 
 /* Styling for the text */
@@ -33,9 +31,8 @@
     text-align: center; /* Center-align text on mobile */
   }
   .profile-pic {
-    width: 120px; /* Smaller image size on mobile */
-    height: 120px;
-    padding-right: 0; /* Remove extra padding on mobile */
+    width: 100px; /* Smaller size on mobile */
+    height: 100px;
   }
   .intro-text {
     margin-top: 15px; /* More spacing between image and text */
