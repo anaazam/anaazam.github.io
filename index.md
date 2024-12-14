@@ -45,7 +45,7 @@ Cited by the Union of Sex Workers Organised for Independence during Brussels pol
 
 ### Statistics Canada Publications  
 **Azam, A., Wang, S. (2023).**  
-[Corporate profitability and inflation: 2017 to 2022._](https://www150.statcan.gc.ca/n1/en/catalogue/62F0014M2023004)  
+[Corporate profitability and inflation: 2017 to 2022.](https://www150.statcan.gc.ca/n1/en/catalogue/62F0014M2023004)  
 Referenced by the Assistant Chief Statistician for the House of Commons’ Committee on Industry and Technology.
 
 **Azam, A. (2022).**  
