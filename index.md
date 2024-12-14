@@ -34,20 +34,20 @@ layout: default
 ---
 
 ### Peer-Reviewed Publications  
-**Azam, A., Hendrickx, J., Adriaenssens, S. (2024). Quality & Quantity.**  
-[**Estimating the prostitution population using online data: a single-registration approach for the Netherlands and Belgium.**](https://doi.org/10.1007/s11135-024-01634-8)  
+Azam, A., Hendrickx, J., Adriaenssens, S. (2024). **Quality & Quantity.**  
+[Estimating the prostitution population using online data: a single-registration approach for the Netherlands and Belgium.](https://doi.org/10.1007/s11135-024-01634-8)  
 Cited by the Union of Sex Workers Organised for Independence during Brussels policymaker meetings.
 
-**Azam, A., Adriaenssens, S., Hendrickx, J. (2020). European Societies.**  
+Azam, A., Adriaenssens, S., Hendrickx, J. (2020). **European Societies.**  
 [**How Covid-19 affects prostitution markets in the Netherlands and Belgium: dynamics and vulnerabilities under a lockdown.**](https://doi.org/10.1080/14616696.2020.1833064)  
 
 ---
 
 ### Statistics Canada Publications  
-**Azam, A., Wang, S. (2023).** [**Corporate profitability and inflation: 2017 to 2022.**](https://www150.statcan.gc.ca/n1/en/catalogue/62F0014M2023004)  
+Azam, A., Wang, S. (2023). [Corporate profitability and inflation: 2017 to 2022.](https://www150.statcan.gc.ca/n1/en/catalogue/62F0014M2023004)  
 Referenced by the Assistant Chief Statistician for the House of Commons’ Committee on Industry and Technology.
 
-**Azam, A. (2022).** [**Technical Guide for the Building Construction Price Index.**](https://www150.statcan.gc.ca/n1/pub/62f0014m/62f0014m2022005-eng.htm)  
+Azam, A. (2022). [Technical Guide for the Building Construction Price Index.](https://www150.statcan.gc.ca/n1/pub/62f0014m/62f0014m2022005-eng.htm)  
 
 ---
 
