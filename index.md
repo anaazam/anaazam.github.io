@@ -35,11 +35,11 @@ layout: default
 ---
 
 ### Peer-Reviewed Publications  
-Azam, A., Hendrickx, J., Adriaenssens, S. (2024). **Quality & Quantity.**  
+Azam, A., Hendrickx, J., Adriaenssens, S. **(2024). Quality & Quantity.**  
 [Estimating the prostitution population using online data: a single-registration approach for the Netherlands and Belgium.](https://doi.org/10.1007/s11135-024-01634-8)  
 Cited by the Union of Sex Workers Organised for Independence during Brussels policymaker meetings.
 
-Azam, A., Adriaenssens, S., Hendrickx, J. (2020). **European Societies.**  
+Azam, A., Adriaenssens, S., Hendrickx, J. **(2020). European Societies.**  
 [How Covid-19 affects prostitution markets in the Netherlands and Belgium: dynamics and vulnerabilities under a lockdown.](https://doi.org/10.1080/14616696.2020.1833064)  
 
 ---
