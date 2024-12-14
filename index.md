@@ -12,9 +12,10 @@ layout: default
     </p>
     <p>
       Feel free to connect with me via 
-      <a href="mailto:ana.azam@alumni.utoronto.ca">email</a> or check out my work on 
-      <a href="https://orcid.org/0000-0001-5109-4455">ORCID</a> or 
-      <a href="https://github.com/anaazam">GitHub</a>.
+      <a href="mailto:ana.azam@alumni.utoronto.ca">email</a>, or check out my work on 
+      <a href="https://orcid.org/0000-0001-5109-4455">ORCID</a>, 
+      <a href="https://github.com/anaazam">GitHub</a>, or my
+      <a href="AnahitaAzam_CV.pdf" download="AnahitaAzam_CV.pdf">CV</a>.
     </p>
   </div>
 </div>
