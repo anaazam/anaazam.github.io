@@ -54,11 +54,11 @@ Azam, A. (2022). [Technical Guide for the Building Construction Price Index.](ht
 
 ### Professional Experience  
 
-**Economist***
+**Economist**   
 Statistics Canada, Housing & Construction Prices  
 Toronto, Canada (2021–Present)   
 
-**Research Assistant**  
+**Research Assistant**   
 KU Leuven, Faculty of Economics & Business  
 Brussels, Belgium (2020)  
 
