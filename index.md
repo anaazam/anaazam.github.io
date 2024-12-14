@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
-  <img src="profile.jpg" alt="Anahita Azam" style="border-radius: 50%; width: 200px; height: 200px;">
+  <img src="profile.jpg" alt="Anahita Azam" style="border-radius: 50%; width: 250px; height: 250px;">
   <div>
     <p>Welcome, خوش آمدید , bienvenue!</p>
     <p>
