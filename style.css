@@ -1,0 +1,34 @@
+/* General styling for the intro section */
+.intro {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-bottom: 20px;
+  flex-wrap: wrap; /* Ensures wrapping on smaller screens */
+  text-align: center; /* Ensures centered content */
+}
+
+/* Styling for the profile picture */
+.profile-pic {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+}
+
+/* Styling for the text */
+.intro-text {
+  flex: 1; /* Allows the text to adjust dynamically */
+  margin-top: 10px; /* Adds spacing below the image when stacked */
+}
+
+/* Mobile adjustments for smaller screens */
+@media (max-width: 600px) {
+  .profile-pic {
+    width: 150px; /* Smaller image size on mobile */
+    height: 150px;
+  }
+  .intro-text {
+    margin-top: 20px; /* Add spacing between image and text */
+  }
+}
