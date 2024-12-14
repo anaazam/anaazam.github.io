@@ -89,16 +89,16 @@ Brussels, Belgium (2020)
 - Hidden populations and vulnerabilities in sensitive markets  
 - Socio-economic impacts of automation and technology
 
-#### Languages
-- Proficient - English, Urdu
-- Intermediate - French, Punjabi, Sindhi
-
-#### Data Science
+#### Statistics & Data Science
 - Causal Inference
 - Hedonic Pricing
 - Linear & Logistic Regressions
 - Webscraping
 - Price Index Estimation
+
+#### Languages
+- Proficient - English, Urdu
+- Intermediate - French, Punjabi, Sindhi
 
 #### Technical Skills  
 - **Programming:** R, Python, SQL, Stata, Excel VBA  
