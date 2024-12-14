@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px; margin-bottom: 20px; text-align: left;">
-  <img src="profile.jpg" alt="Anahita Azam" style="border-radius: 50%; width: 250px; height: 250px; object-fit: cover; margin: 0; flex-shrink: 0;">
+  <img src="profile.jpg" alt="Anahita Azam" style="border-radius: 50%; width: 120px; height: 120px; object-fit: cover; margin: 0; flex-shrink: 0;">
 
   <div style="flex: 1;">
     <p>Welcome, خوش آمدید , bienvenue!</p>
@@ -15,12 +15,14 @@ layout: default
       Feel free to connect with me via 
       <a href="mailto:ana.azam@alumni.utoronto.ca">email</a>, check out my work on 
       <a href="https://orcid.org/0000-0001-5109-4455">ORCID</a>, 
-      <a href="https://github.com/anaazam">GitHub</a>, or my
-      <a href="AnahitaAzamCV.pdf" download="AnahitaAzamCV.pdf">CV</a> 
-      <a href="AnahitaAzamCV.pdf" download="AnahitaAzamCV.pdf" style="padding: 10px 15px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; font-size: 14px; margin-left: 10px;">Download</a>.
+      <a href="https://github.com/anaazam">GitHub</a>, or
+      <a href="AnahitaAzamCV.pdf" download="AnahitaAzamCV.pdf" style="text-decoration: none; color: #007bff;">
+        <img src="download-icon.png" alt="Download" style="width: 16px; vertical-align: middle;"> CV
+      </a>.
     </p>
   </div>
 </div>
+
 ---
 
 ### Education  
