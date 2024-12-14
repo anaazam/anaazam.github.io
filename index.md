@@ -2,11 +2,22 @@
 layout: default
 ---
 
-Welcome, خوش آمدید , bienvenue !  
-
-I am an economist and researcher exploring socio-economic and political dynamics through innovative data sources and methodologies. My research spans sensitive markets, policy evaluation, and the intersection of data science and sociological challenges. 
-
-Feel free to connect with me via [email](mailto:ana.azam@alumni.utoronto.ca) or check out my work on [orchid](https://orcid.org/0000-0001-5109-4455) or [github](https://github.com/anaazam). 
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+  <img src="profile.jpg" alt="Anahita Azam" style="border-radius: 50%; width: 100px; height: 100px;">
+  <div>
+    <p>Welcome, خوش آمدید , bienvenue!</p>
+    <p>
+      I am an economist and researcher exploring socio-economic and political dynamics through innovative data sources and methodologies. 
+      My research spans sensitive markets, policy evaluation, and the intersection of data science and sociological challenges.
+    </p>
+    <p>
+      Feel free to connect with me via 
+      <a href="mailto:ana.azam@alumni.utoronto.ca">email</a> or check out my work on 
+      <a href="https://orcid.org/0000-0001-5109-4455">ORCID</a> or 
+      <a href="https://github.com/anaazam">GitHub</a>.
+    </p>
+  </div>
+</div>
 
 ---
 
