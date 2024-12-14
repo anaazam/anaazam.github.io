@@ -1,11 +1,11 @@
 ---
 layout: default
+title: Anahita Azam
 ---
 
 <img src="profile.jpg" alt="Ana Azam" style="border-radius: 50%; max-width: 150px; display: block; margin: 0 auto;">
-    
-Welcome, خوش آمدید , bienvenue !
 
+# Welcome, خوش آمدید , bienvenue !
 I am an economist and researcher exploring socio-economic and political dynamics through innovative data sources and methodologies. My research spans sensitive markets, policy evaluation, and the intersection of data science and sociological challenges. 
 
 Feel free to connect with me via [email](mailto:ana.azam@alumni.utoronto.ca) or check out my work on [orchid](https://orcid.org/0000-0001-5109-4455) or [github](https://github.com/anaazam). 
