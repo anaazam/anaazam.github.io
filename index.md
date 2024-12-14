@@ -2,8 +2,10 @@
 layout: default
 ---
 
-<img src="profile.jpg" alt="Anahita Azam" style="border-radius: 50%; max-width: 150px; display: block; margin: 0 auto;">
-
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="profile.jpg" alt="Anahita Azam" style="border-radius: 50%; max-width: 150px;">
+  <div>
+    
 Welcome, خوش آمدید , bienvenue !
 
 I am an economist and researcher exploring socio-economic and political dynamics through innovative data sources and methodologies. My research spans sensitive markets, policy evaluation, and the intersection of data science and sociological challenges. 
