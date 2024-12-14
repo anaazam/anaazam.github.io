@@ -6,6 +6,9 @@
   margin-bottom: 20px;
   flex-wrap: wrap; /* Ensures wrapping on smaller screens */
   text-align: left; /* Default alignment for larger screens */
+  background-color: #f9f9f9; /* Light background for better visibility */
+  padding: 20px; /* Adds spacing inside the section */
+  border-radius: 10px; /* Rounds the section's corners */
 }
 
 /* Styling for the profile picture */
@@ -15,6 +18,7 @@
   height: 150px; /* Maintain circular aspect ratio */
   margin: 0; /* Reset any extra margins */
   flex-shrink: 0; /* Prevent image from resizing too small */
+  padding-right: 15px; /* Adds space between the image and the text */
 }
 
 /* Styling for the text */
@@ -31,6 +35,7 @@
   .profile-pic {
     width: 120px; /* Smaller image size on mobile */
     height: 120px;
+    padding-right: 0; /* Remove extra padding on mobile */
   }
   .intro-text {
     margin-top: 15px; /* More spacing between image and text */
