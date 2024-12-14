@@ -80,7 +80,7 @@ Brussels, Belgium (2020)
 **Canadian Economics Association Conference (2024)**  
   _The role of profits in post-pandemic inflation._  
     
-**European Population Conference (2022):**  
+**European Population Conference (2022)**  
   _Issues in health data analysis for hidden populations._  
     
 ---
@@ -98,8 +98,8 @@ Brussels, Belgium (2020)
 - Price Index Estimation
 
 #### Languages
-- Proficient - English, Urdu
-- Intermediate - French, Punjabi, Sindhi
+- **Proficient:** English, Urdu
+- **Intermediate:** French, Punjabi, Sindhi
 
 #### Technical Skills  
 - **Programming:** R, Python, SQL, Stata, Excel VBA  
