@@ -8,8 +8,8 @@ layout: default
   <div style="flex: 1;">
     <p>Welcome, خوش آمدید , bienvenue!</p>
     <p>
-      I am an economist and researcher exploring socio-economic and political dynamics through innovative data sources and methodologies.<br> 
-      <br>
+      I am an economist and researcher exploring socio-economic and political dynamics through innovative data sources and methodologies.</p> 
+      <p>
         My research focuses on sensitive markets, vulnerable populations, and leveraging data-driven insights to address complex, real-world challenges through evidence-based policy solutions.
     </p>
     <p>
