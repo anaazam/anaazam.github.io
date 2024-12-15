@@ -23,7 +23,7 @@ layout: default
 
 ---
 
-### Education  
+### Education   
   **Master of Science in Economics**  
   _KU Leuven, Belgium (2020)_  
   Thesis: The internet and underground markets: estimating prostitution supply in the Low Countries 
