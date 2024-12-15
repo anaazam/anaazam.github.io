@@ -8,8 +8,8 @@ layout: default
   <div style="flex: 1;">
     <p>Welcome, خوش آمدید , bienvenue!</p>
     <p>
-      I am an economist and researcher exploring socio-economic and political dynamics through innovative data sources and methodologies. 
-      My research spans sensitive markets, policy evaluation, and the intersection of data science and sociological challenges.
+      I am an economist and researcher exploring socio-economic and political dynamics through innovative data sources and methodologies.    
+      My research focuses on sensitive markets, vulnerable populations, and leveraging data-driven insights to address complex, real-world challenges through evidence-based policy solutions.
     </p>
     <p>
       Feel free to connect with me via 
